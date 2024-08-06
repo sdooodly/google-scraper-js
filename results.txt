@@ -1,41 +1,38 @@
 "Hello, World!" program
 https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
 
-HelloWorld Coliving & Student Hostels
-https://thehelloworld.com/
-
 The History of Hello World: A Brief Overview - CodeInterview Blog
 https://codeinterview.io/blog/the-history-of-hello-world-a-brief-overview/#:~:text=The%20Purpose%20of%20'Hello%20World,its%20simplicity%20and%20universal%20applicability.
 
 Reviews: Hello World - IMDb
-https://m.imdb.com/title/tt9418812/reviews#:~:text=Sign%20in%20to%20vote.,-Permalink&text=Hello%20World%20is%20one%20of,and%20twisty%20Sci%2DFi%20dimension.
+https://m.imdb.com/title/tt9418812/reviews#:~:text=Hello%20World%20is%20one%20of,and%20twisty%20Sci%2DFi%20dimension.
+
+How to write a Python Hello World Program: Examples
+https://www.toppr.com/guides/python-guide/examples/python-examples/write-python-hello-world-program/#:~:text=Python%20Hello%20world%20program%20uses,more%20expressions%20separated%20by%20commas.
 
 Basic example: Creating and running “Hello World” - IBM
 https://www.ibm.com/docs/en/xcafbg/9.0.0?topic=installation-basic-example-creating-running-hello-world
 
-Hello World (film) - Wikipedia
-https://en.wikipedia.org/wiki/Hello_World_(film)#:~:text=In%20the%20final%20scene%2C%20adult,was%20adult%20Ruri%20transferring%20Naomi's
-
 Hello World
 https://code.org/helloworld
+
+HelloWorld Coliving & Student Hostels
+https://thehelloworld.com/
+
+Hello World
+https://docs.github.com/en/get-started/start-your-journey/hello-world
 
 Hello World (2019)
 https://www.imdb.com/title/tt9418812/
 
 Hello World
-https://docs.github.com/en/get-started/start-your-journey/hello-world
-
-Hello World
 https://www.raspberrypi.org/hello-world
-
-Gwen Stefani x Anderson .Paak – Hello World (Song of The ...
-https://www.youtube.com/watch?v=tvuCsOTQUeE
 
 Hello, World! - Free Interactive Python Tutorial
 https://www.learnpython.org/en/Hello%2C_World%21
 
+Hello World – Programming Fundamentals
+https://press.rebus.community/programmingfundamentals/chapter/hello-world/
+
 Express "Hello World" example
 https://expressjs.com/en/starter/hello-world.html
-
-C "Hello, World!" Program
-https://www.programiz.com/c-programming/examples/print-sentence

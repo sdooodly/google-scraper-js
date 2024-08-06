@@ -2,7 +2,7 @@ const bingSearch = require("bing-search");
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-async function scrapeGoogle(query) {
+const scrapeGoogle = async(query) => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
@@ -27,7 +27,7 @@ async function scrapeGoogle(query) {
   return results;
 }
 
-async function main() {
+const main = async() => {
   const query = await new Promise((resolve) => {
     const rl = require("readline").createInterface({
       input: process.stdin,
@@ -45,9 +45,9 @@ async function main() {
   const output = results
     .map((result) => `${result.title}\n${result.link}\n`)
     .join("\n");
-  fs.writeFileSync("google_results.txt", output);
+  fs.writeFileSync("results.txt", output);
 
-  console.log("Results saved to google_results.txt");
+  console.log("Results saved to results.txt");
 }
 
 main();
